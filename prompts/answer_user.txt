@@ -1,0 +1,11 @@
+SME-configured use-case context:
+{use_case_context}
+
+User question:
+{query}
+
+Retrieved document context:
+{context}
+
+Task:
+Write a grounded answer for the user using only the retrieved document context and the use-case context.

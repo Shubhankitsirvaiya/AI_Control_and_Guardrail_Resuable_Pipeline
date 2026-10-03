@@ -1,0 +1,17 @@
+SME-configured use-case context:
+{use_case_context}
+
+User role:
+{user_role}
+
+User query:
+{query}
+
+Accessible document preview:
+{document_preview}
+
+Task:
+Validate this query before the gateway performs retrieval.
+
+Parser instructions:
+{format_instructions}

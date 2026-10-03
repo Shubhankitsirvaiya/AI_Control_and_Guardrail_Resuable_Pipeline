@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+streamlit
+requests
+pydantic
+python-multipart
+openai
+python-dotenv
+pypdf
+python-docx
+langchain-core
+

@@ -1,0 +1,17 @@
+SME-configured use-case context:
+{use_case_context}
+
+User query:
+{query}
+
+Retrieved context:
+{retrieved_context}
+
+Draft answer:
+{answer}
+
+Task:
+Validate whether this answer can be shown to the user.
+
+Parser instructions:
+{format_instructions}

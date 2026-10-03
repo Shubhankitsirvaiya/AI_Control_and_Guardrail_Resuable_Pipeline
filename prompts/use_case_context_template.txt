@@ -1,0 +1,26 @@
+Use-case name:
+<Write the name of the business use case.>
+
+Business owner:
+<Write the SME/team responsible for the use case.>
+
+Goal:
+<Describe what the AI application should help users do.>
+
+In-scope document types:
+- <Document type 1>
+- <Document type 2>
+
+Relevant content signals:
+- <Terms, topics, entities, sections, or patterns that indicate the document belongs to this use case.>
+
+Out-of-scope document types:
+- <Document type that should not be accepted>
+
+Allowed assistant behavior:
+- <Allowed behavior 1>
+- <Allowed behavior 2>
+
+Restricted assistant behavior:
+- <Restricted behavior 1>
+- <Restricted behavior 2>
